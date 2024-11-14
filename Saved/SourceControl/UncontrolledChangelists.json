@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Terry/Documents/Unreal Projects/Pack-Rat-Interactive/Content/ThirdPerson/Input/Actions/IA_Inventory.uasset",
+				"C:/Users/Terry/Documents/Unreal Projects/Pack-Rat-Interactive/Content/ThirdPerson/Input/Actions/IA_Interact.uasset",
+				"C:/Users/Terry/Documents/Unreal Projects/Pack-Rat-Interactive/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/Terry/Documents/Unreal Projects/Pack-Rat-Interactive/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Terry/Documents/Unreal Projects/Pack-Rat-Interactive/Content/UI/W_StarterBackPack.uasset",
 				"D:/PackRat/Pack-Rat-Interactive/Content/Items/BP_Pistol.uasset",
 				"D:/PackRat/Pack-Rat-Interactive/Content/Items/BP_Ammo.uasset",
 				"D:/PackRat/Pack-Rat-Interactive/Content/Items/BP_Bandage.uasset",
@@ -58,7 +63,6 @@
 				"D:/PackRat/Pack-Rat-Interactive/Content/Items/surfacematerial10.uasset",
 				"D:/PackRat/Pack-Rat-Interactive/Content/Items/Items_Key.uasset",
 				"D:/PackRat/Pack-Rat-Interactive/Content/Items/surfacematerial11.uasset",
-				"D:/PackRat/Pack-Rat-Interactive/Content/Items/BP_Water.uasset",
 				"C:/Unreal Projects/BurdenOfThePack/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
