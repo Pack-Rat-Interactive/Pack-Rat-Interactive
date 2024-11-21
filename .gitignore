@@ -72,3 +72,8 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Intermediate/CachedAssetRegistry_0.bin
+Saved/AutoScreenshot.png
+Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+Saved/Logs/BurdenOfThePack.log
+Saved/Telemetry/Telemetry.json
