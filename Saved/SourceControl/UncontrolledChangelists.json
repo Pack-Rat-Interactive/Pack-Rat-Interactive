@@ -5,6 +5,16 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
+				"C:/Users/bstra/OneDrive/Desktop/GDMS/Fullsail/Class 9 - GDM570/Pack-Rat-Interactive/Content/UI/W_StarterBackPack.uasset",
+=======
+				"C:/Users/bstra/OneDrive/Desktop/GDMS/Fullsail/Class 9 - GDM570/Pack-Rat-Interactive/Content/InventoryBPs/UI/Weight.uasset",
+				"C:/Users/bstra/OneDrive/Desktop/GDMS/Fullsail/Class 9 - GDM570/Pack-Rat-Interactive/Content/InventoryBPs/UI/W_MainMenu.uasset",
+				"C:/Users/bstra/OneDrive/Desktop/GDMS/Fullsail/Class 9 - GDM570/Pack-Rat-Interactive/Content/UI/MainMenuLevel.umap",
+				"C:/Users/bstra/OneDrive/Desktop/GDMS/Fullsail/Class 9 - GDM570/Pack-Rat-Interactive/Content/InventoryBPs/UI/GB_Mainmenu.uasset",
+				"C:/Users/bstra/OneDrive/Desktop/GDMS/Fullsail/Class 9 - GDM570/Pack-Rat-Interactive/Content/InventoryBPs/UI/The_Pack.uasset",
+				"C:/Users/bstra/OneDrive/Desktop/GDMS/Fullsail/Class 9 - GDM570/Pack-Rat-Interactive/Content/InventoryBPs/Weight.uasset",
+				"C:/Users/bstra/OneDrive/Desktop/GDMS/Fullsail/Class 9 - GDM570/Pack-Rat-Interactive/Content/UI/Weight.uasset",
 				"D:/PackRat/Pack-Rat-Interactive/Content/Items/BP_Pistol.uasset",
 				"D:/PackRat/Pack-Rat-Interactive/Content/Items/BP_Ammo.uasset",
 				"D:/PackRat/Pack-Rat-Interactive/Content/Items/BP_Bandage.uasset",
@@ -217,6 +227,7 @@
 				"D:/PackRat/Pack-Rat-Interactive/Content/Items/surfacematerial10.uasset",
 				"D:/PackRat/Pack-Rat-Interactive/Content/Items/Items_Key.uasset",
 				"D:/PackRat/Pack-Rat-Interactive/Content/Items/surfacematerial11.uasset",
+>>>>>>> Stashed changes
 				"C:/Unreal Projects/BurdenOfThePack/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
